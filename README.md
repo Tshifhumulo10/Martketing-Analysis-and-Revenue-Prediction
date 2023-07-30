@@ -1,6 +1,6 @@
 # Martketing Analysis and Revenue Prediction
 
-![marketing-938935_1280](https://github.com/Tshifhumulo10/Martketing-Analysis-and-Revenue-Prediction/assets/115041717/3bd4eb4c-94af-4d4c-8db9-c975c38ff928)
+![istockphoto-468553112-612x612](https://github.com/Tshifhumulo10/Martketing-Analysis-and-Revenue-Prediction/assets/115041717/ab98acac-08a1-4703-8771-8159d06772f2)
 
 There are many vehicles for marketing ranging from social media, Television, instore and etc. However, some are more effective than others in generating revenue. Thus, Companies need to gain insights on the routes that play a pivotal role in  increasing their company's revenues.  
 
