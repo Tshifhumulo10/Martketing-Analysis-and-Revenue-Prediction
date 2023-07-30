@@ -1,4 +1,4 @@
-# Martketing-Analysis-and-Revenue-Prediction
+# Martketing Analysis and Revenue Prediction
 
 ![marketing-938935_1280](https://github.com/Tshifhumulo10/Martketing-Analysis-and-Revenue-Prediction/assets/115041717/3bd4eb4c-94af-4d4c-8db9-c975c38ff928)
 
