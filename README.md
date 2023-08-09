@@ -1,6 +1,7 @@
 # Martketing Analysis and Revenue Prediction
 
-![istockphoto-468553112-612x612](https://github.com/Tshifhumulo10/Martketing-Analysis-and-Revenue-Prediction/assets/115041717/ab98acac-08a1-4703-8771-8159d06772f2)
+![digital_marketing](https://github.com/Tshifhumulo10/Martketing-Analysis-and-Revenue-Prediction/assets/115041717/3e8b1f7c-9ac4-433f-a2af-12eeba4d9937)
+
 
 In the ever-evolving landscape of modern business, the quest for effective marketing strategies has become akin to traversing uncharted territories. Companies are faced with a plethora of avenues for reaching their target audience, from the vast realms of social media to the captivating allure of television and the immersive experience of in-store promotions. Amidst this multitude of choices, lies a paramount challenge – identifying the elusive paths that hold the key to unlocking unprecedented revenue growth.
 
