@@ -7,4 +7,3 @@ In the ever-evolving landscape of modern business, the quest for effective marke
 
 In this ambitious journey, I embark on a quest to decipher the enigmatic puzzle of revenue generation, uncovering the hidden gems amidst the vast array of marketing vehicles. My mission is to illuminate the transformative routes that promise to elevate companies to new heights, fueling their growth and prosperity. In this dynamic realm, my voyage delves into the depths of analytics and predictive prowess, offering a glimpse into the future of marketing effectiveness.
 
-The data used in this project was downloaded from kaggle(https://www.kaggle.com/datasets/irisfanfan/store-data). The data has six different routes of advertisement namely tweet, local tv, online, instore, person and event and the revenue generated. 
