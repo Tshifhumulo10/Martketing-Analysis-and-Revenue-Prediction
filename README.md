@@ -18,5 +18,5 @@ In this ambitious journey, I embark on a quest to decipher the enigmatic puzzle 
 3. Data Collection
 4. Exploratory data Analysis
 5. Feature Engineering
-6. modeling
+6. Modeling
 7. Model review
