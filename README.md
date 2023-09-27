@@ -8,7 +8,7 @@ In this ambitious journey, I embark on a quest to decipher the enigmatic puzzle 
 
 ## Documents 
 
-1. Notebook: This Jupyter Notebook is an essential part of our project dedicated to analyzing the relationship between Marketing budget and sales revenue  and developing a predictive model for Sales revenue.
+1. Notebook: This Jupyter Notebook is an essential part of the project dedicated to analyzing the relationship between Marketing budget and sales revenue  and developing a predictive model for Sales revenue.
 2. Train Data: The training dataset was obtained from Kaggle, and the source link is provided above. This dataset serves as the foundation for  analysis and model development.
 
 # Notebook Content
