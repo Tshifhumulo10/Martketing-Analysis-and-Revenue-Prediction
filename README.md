@@ -1,4 +1,4 @@
-# Martketing Analysis and Revenue Prediction
+## Martketing Analysis and Revenue Prediction
 
 ![R_resized](https://github.com/Tshifhumulo10/Consumer_Complaints_NLP/assets/115041717/3f5ce8de-55d9-4988-861b-48c56df02c24) 
 
@@ -6,7 +6,7 @@ In the ever-evolving landscape of modern business, the quest for effective marke
 
 In this ambitious journey, I embark on a quest to decipher the enigmatic puzzle of revenue generation, uncovering the hidden gems amidst the vast array of marketing vehicles. My mission is to illuminate the transformative routes that promise to elevate companies to new heights, fueling their growth and prosperity. In this dynamic realm, my voyage delves into the depths of analytics and predictive prowess, offering a glimpse into the future of marketing effectiveness.
 
-# Documents 
+## Documents 
 
 1. Train
 2. Notebook
@@ -20,3 +20,15 @@ In this ambitious journey, I embark on a quest to decipher the enigmatic puzzle 
 5. Feature Engineering
 6. Modeling
 7. Model review
+
+## Usage
+To make the most of this notebook:
+
+1. Clone this repository to your local machine.
+2. Ensure you have the required Python libraries and dependencies installed.
+3. Open the notebook in Jupyter Notebook or any compatible environment.
+4. Execute each cell in the notebook sequentially to reproduce the analysis and model development.
+
+## Project Progress
+
+The analysis is ongoing, and the notebook is continuously updated with new findings and model improvements.
